@@ -4,7 +4,7 @@ services:
     container_name: mysql-db
     environment:
       MYSQL_ROOT_PASSWORD: Deepu@123
-      MYSQL_DATABASE: traveldb
+      MYSQL_DATABASE: examdb205
     ports:
       - "3307:3306"
     volumes:
