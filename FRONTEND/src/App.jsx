@@ -1,4 +1,4 @@
-import VoterApp from "./Voterapp"
+import VoterApp from ".src/VoterApp.jsx"
 
 
 function App() {
